@@ -1,4 +1,4 @@
-# Templates for Project, Safety and System Development Management
+# Templates for Project-, Safety- and System Development Management
 You find here ready-to-use documents and templates for development projects. This repository has 3 main goals:
 1. **Speed**: If I start to colloborate with a new customer, a lot of valuable time is wasted to identify the required documents. You can save time and start to work with proven templates.
 2. **Copy the proven stuff**: In Automotive many project teams and suppliers from all over the world work together. Yet, a gazillion amount of money is spend to copy-paste the requirements from standards to Word/Excel/Wikis.
